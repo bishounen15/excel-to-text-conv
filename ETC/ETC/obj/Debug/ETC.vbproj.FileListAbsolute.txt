@@ -1,0 +1,10 @@
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\bin\Debug\ETC.exe
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\bin\Debug\ETC.pdb
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\bin\Debug\ETC.xml
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\obj\Debug\ETC.frmMain.resources
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\obj\Debug\ETC.Resources.resources
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\obj\Debug\ETC.vbproj.GenerateResource.Cache
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\obj\Debug\ETC.exe
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\obj\Debug\ETC.xml
+C:\WINDOWS.OLD\Documents and Settings\C Nevalga.SMPIC.000\My Documents\Chris Files\SysDev\ETC\ETC\obj\Debug\ETC.pdb
